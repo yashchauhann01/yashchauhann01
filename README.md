@@ -1,6 +1,5 @@
                                                     Hi👋, I’m Yash Chauhan
                                                     
-                                                    I am a passionate software engineer
                                                                                                                                         
 
 
