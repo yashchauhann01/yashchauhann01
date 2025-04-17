@@ -1,10 +1,20 @@
-# 👋 Hi, I’m Yash Chauhan
+                                                    Hi👋, I’m Yash Chauhan
+                                                    
+                                                    I am a passionate software engineer
+                                                                                                                                        
+
 
 - 👀 I’m interested in Web Development, Open Source, and AI
+  
 - 🌱 I’m currently learning React and DSA
+  
+- 💬 Ask me about  C, C++, Python, Java, GitHub, Figma, Canva, HTML, CSS, JAVASCRIPT, Node Js(MVC) basics, MySQL, AWS Cloud, Azure Basics, IoT, AutoCAD
+  
 - 💞️ I’m looking to collaborate on cool open-source projects
+  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yash-chauhan-255b32292/) | Email: chauhan19yash@gmail.com
-- 😄 Pronouns: He/Him
+  
+
 
 
 🛠️ Tech Stack
