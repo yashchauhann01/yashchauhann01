@@ -6,7 +6,7 @@
                                                                                                                                         
 - 👀 I’m interested in Web Development, Open Source, and AI
   
-- 🌱 I’m currently exploring **React and DSA**
+- 🌱 I’m currently exploring **Cybersecurity and DSA**
   
 - 💬 Ask me about  **C, Python, Java, GitHub, Figma, Canva, HTML, CSS, JAVASCRIPT, Node Js(MVC) basics, MySQL, AWS Cloud, Azure Basics, IoT, AutoCAD**
   
