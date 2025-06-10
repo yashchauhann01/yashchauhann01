@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently exploring **Cybersecurity and DSA**
   
-- 💬 Ask me about  **C, Python, Java, GitHub, Figma, Canva, HTML, CSS, JAVASCRIPT, Node Js(MVC) basics, MySQL, AWS Cloud, Azure Basics, IoT, AutoCAD**
+- 💬 Ask me about  **C, Python, Java, GitHub, Figma, Canva, HTML, CSS, JAVASCRIPT, React JS, MongoDB, Node Js(MVC) basics, MySQL, AWS Cloud, Azure Basics, IoT, AutoCAD**
   
 - 👯 I’m looking to collaborate on cool open-source projects
   
